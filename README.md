@@ -1,19 +1,23 @@
-<h1 align="center">Hi there 👋, I'm Shoka</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=00FFE0&center=true&vCenter=true&repeat=false&width=490&lines=Hi!+I'm+Faharel+Adittha+Pratama" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <em>Solo Indie Developer · Front-End Enthusiast · Belajar buat karya yang bermakna</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=87CEEB&center=true&vCenter=true&random=true&width=490&lines=Frontend+Developer;Web+Designer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
+
+<!-- <p align="center">
+  A passionate Frontend Developer who loves clean UI, creative code, and building web experiences.
+</p> -->
 
 ---
 
-## 💡 Tentang Saya
+## 🧑‍💻 About Me
 
-- 🌱 Sedang belajar JavaScript, React, dan Tailwind CSS
-- 🎯 Fokus bikin proyek kecil yang realistik dan fun
-- 🌊 Penggagas website top-up bertema lautan: **Shoka**
-- 🍳 Sedang merancang aplikasi resep makanan: **DapoerKita**
-- 👀 Tertarik di UI/UX, animasi halus, dan sistem interaktif
-- 📚 Kadang eksperimen sambil nonton anime atau main game 🎮
+I'm an Information Systems student and a passionate **Frontend Developer**, turning ideas into clean, responsive, and user-friendly web experiences.  
+
+I love combining **design and code** to build creative, real-world projects — and I'm always learning new tools to level up.  
+Check out my repos, and let's bring awesome ideas to life! 😎🔥
 
 ---
 
@@ -29,31 +33,36 @@
 
 ---
 
-## 📌 Proyek yang Sering Aku Update
-
-- [ShokaDaily](https://github.com/ShokaDev/ShokaDaily) — Latihan coding harian, eksperimen logika & fitur
-- [Belajar-JavaScript](https://github.com/ShokaDev/Belajar-JavaScript) — Eksperimen dan latihan dasar JavaScript
-- [Belajar-PHP](https://github.com/ShokaDev/Belajar-PHP) — Kumpulan latihan eksplorasi PHP
-- [ToDo-JP](https://github.com/ShokaDev/ToDo-JP) — Proyek To Do List dengan CSS interaktif
-
----
-
 ## 📈 Statistik GitHub
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShokaDev&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShokaDev&layout=compact&theme=tokyonight" height="180px"/>
+  <a href="https://fatkhurrhn.vercel.app/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShokaDev&theme=github-compact&radius=16" alt="GitHub Activity Graph" />
+  </a>
+
 </p>
 
----
-
-## 📫 Kontak
-
-- 📧 Email: (isi jika kamu ingin tampilkan)
-- 💬 Discord: (opsional)
-- 🌐 Portfolio: sedang disiapkan...
 
 ---
 
-> “Bukan soal bikin yang sempurna, tapi soal terus berkembang dari ide kecil yang kita suka.” — Shoka
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:Fahareladitthaprtama@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Fahareladitthaprtama@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-Shouka2000-5865F2?style=flat&logo=discord&logoColor=white" />
+  <a href="https://www.tiktok.com/@shoukanee" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+> _"First, solve the problem. Then, write the code."_  
+> — John Johnson
+
 
