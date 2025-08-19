@@ -12,6 +12,12 @@
 
 ---
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ShokaDev&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ShokaDev?style=flat-square&color=blue&label=Followers" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/ShokaDev?style=flat-square&color=yellow&label=Total+Stars" alt="GitHub Stars"/>
+</div>
+
 ## 🧑‍💻 About Me
 
 I'm an Information Systems student and a passionate **Frontend Developer**, turning ideas into clean, responsive, and user-friendly web experiences.  
@@ -76,13 +82,16 @@ Check out my repos, and let's bring awesome ideas to life! 😎🔥
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:Fahareladitthaprtama@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Fahareladitthaprtama@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:fahareladitthapratama@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-Shouka2000-5865F2?style=flat&logo=discord&logoColor=white" />
-  <a href="https://www.tiktok.com/@shoukanee" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" />
+  <a href="https://discord.gg/8gB5RxK6" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="https://www.tiktok.com/@shoukanee?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+
 </p>
 
 
