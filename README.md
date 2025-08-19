@@ -48,17 +48,28 @@ Check out my repos, and let's bring awesome ideas to life! 😎🔥
 
 ---
 
-## 📈 Statistik GitHub
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShokaDev&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShokaDev&layout=compact&theme=tokyonight" height="180px"/>
-  <a href="https://fatkhurrhn.vercel.app/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShokaDev&theme=github-compact&radius=16" alt="GitHub Activity Graph" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShokaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ShokaDev's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShokaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</div>
 
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShokaDev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShokaDev&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShokaDev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 ---
 
